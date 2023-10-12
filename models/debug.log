@@ -1,0 +1,545 @@
+2023-05-10 09:04:49,539 - PrefixTuning - INFO - 
+
+train start:
+2023-05-10 09:20:34,205 - PrefixTuning - INFO - train_preds[0]:chachachachachachachachachaudaaban Grid Sob dispers dispers Sob Sob Sob Sob Sobchachacha slavecha Ges Geschaudauda кри Sob dispers pinimi pin Sobuda pinudauda Sob Sob Sob Sob Sob Sobonto Recordsimiimiőd classification Sobimi Sob Pinelli Sob Abs ne Stationudaelli Cl ingår Sob slave HMSlingslingsimi “ slave cu culingsudaعchachaurrence nimchachaakes pron Wortjujuimichevchachevimichaudauda +=ányányongoongoimi Thread Threadouxjorimi RecordsimiعentesCCN�vin RosenEnvouxgi Sob Sob Sobentesimiimiimivinimielmschnittlings HMS Sob records Rosenimichachachachachacha ingår ingårREADcha Sobardinenberg feder情
+2023-05-10 09:20:34,207 - PrefixTuning - INFO - epoch=0: train_ppl=tensor(164.0014, device='cuda:0') train_epoch_loss=tensor(5.0999, device='cuda:0')
+2023-05-10 09:22:17,783 - PrefixTuning - INFO - eval_preds[0]:Trump Trump between relation between is between Trumpcont between Trump Trump and T Trump " is " and The and relation is is relation between between relation between Sh between relation between Trump between relation and @ relation between between relation between is and relation Trump relation relation between relation and relation between between". and relation and relation relation K". between K The K relation and". Thepresent Trump Theainpresentain is is". Theain is is @". @". and". relation ispe and and and andTheh is is and Trumpcont of relation relation and @ is and TrumpThe relation between @ain is is @ is is "memberer". The is is is is is is is is is is is". is is is".".".". is is is is".".
+2023-05-10 09:22:17,837 - PrefixTuning - INFO - epoch=0:eval_ppl=tensor(52.4334, device='cuda:0') eval_epoch_loss=tensor(3.9595, device='cuda:0')
+2023-05-10 09:39:08,804 - PrefixTuning - INFO - train_preds[0]:The The between Trump between and between Thecont between Trump The and The relation " between The and The between The is is relation between between Sh between R T R between Trump Trump relation and S relation between between relation between is and relation between relation relation between between between between between between and is and is K relation K". between S The and relation and". Thehsub Thek". isain and The is and relation and T". is".k is The relation". @ relation @ ispeh and and and andThe and and and of @ @ and".cont of @ain and JThe relation between @ is is @ain namesain is "memberer". The is is is is is is is is is of". of is is is is".". The". is is is".".".". is is".".".". is
+2023-05-10 09:39:08,894 - PrefixTuning - INFO - epoch=1: train_ppl=tensor(42.0744, device='cuda:0') train_epoch_loss=tensor(3.7394, device='cuda:0')
+2023-05-10 09:40:55,939 - PrefixTuning - INFO - eval_preds[0]:Thes The Trump between R ofsss Trump The is Trump Trump T of . between " and The is is between between at". is is is relation between relation is is is 'pe between between relation is is and relation between is relation between relation and relation". of between between and is relation is and". between relation The of relation and and relationBainaBh and is and and Trump and is is between". is J and and " ispe and and and andThe and and and of Trumph between". Trump and Trump and and TrumpThe relation between Jeld is and J and and "memberer". The is of is is is is is is is is is is is is is is".".". is is is".".".
+2023-05-10 09:40:55,942 - PrefixTuning - INFO - epoch=1:eval_ppl=tensor(38.6199, device='cuda:0') eval_epoch_loss=tensor(3.6538, device='cuda:0')
+2023-05-10 09:56:58,797 - PrefixTuning - INFO - train_preds[0]:n The The Trump between Trump Thesss T The is T The Tour in The between T Tour The iss The between at The is The is relation between relation is relation is relation " of between relation is is is relation of relation relation between and between relation". of". between". of is is is". between relation The of relation and is relationainains is and and isate and The and".h is and". is The is iscont and and and isThe and and and of Trump and between". @ and Trump and and TrumpThe relation between J and J is "member of".". The is is is is is is is is is is is is is is is is is is is".".". is".".".".".".".".".". is of of is is is is
+2023-05-10 09:56:58,800 - PrefixTuning - INFO - epoch=2: train_ppl=tensor(34.9459, device='cuda:0') train_epoch_loss=tensor(3.5538, device='cuda:0')
+2023-05-10 10:00:47,037 - PrefixTuning - INFO - eval_preds[0]:" The The relation between Trump between The Thes Trump is of . between . of . between .". . is and relation of". relation between R is relation between . is relation between The relation between residence relation is is and relation between relation relation between relation between relation". of".".". between". and is".". relation The of relations and The and and betweenina and and and and The and is is".".". Trump and andThe is The and and and andThe and and and of Trump and of". Trump and Trump is and TheThe relation between Kong and and @ and and "peer". The".".pleplepleityity ofityityitypleity". of of of ofityityityityityityity
+2023-05-10 10:00:47,040 - PrefixTuning - INFO - epoch=2:eval_ppl=tensor(36.1491, device='cuda:0') eval_epoch_loss=tensor(3.5877, device='cuda:0')
+2023-05-10 10:20:15,851 - PrefixTuning - INFO - train_preds[0]:The The The The . and and The The of . is of . is . of . between The residence residence iss relation betweenity . between R at The between The is relation between relation relation between residence relation is is and relation between relation relation between relation between relation". of". between". between". between is".". relation The of relations and The is and between and and is and and and The and and". of is and is Trump is and and and The and andThe and and and of Trump and is". @ and Trump and and TheThe relation between K and and and J@ and is "pe of". The in of ofitypleity of of ofityityityityityity ofityity ofityityityityity
+2023-05-10 10:20:15,854 - PrefixTuning - INFO - epoch=3: train_ppl=tensor(31.8043, device='cuda:0') train_epoch_loss=tensor(3.4596, device='cuda:0')
+2023-05-10 10:22:35,884 - PrefixTuning - INFO - eval_preds[0]:" between between " between Trump of Trumps in Trump of is Tour between The in between between between between between is and Trump between". between between R between " between between . relation is T " between between relations and is The between relation relation between between and relation between of between between". is T is is Trump between @ The of relations and relationT @s anda andates and The and ofs is".". @ and andThe iss and and and andThe and and and and TrumpS between". @ and Trump and is TrumpThe relation between Jeld is is J and is "memberer". The".".TheThepleThessityTheTheTheThe in in in".".".ityityityityity in
+2023-05-10 10:22:35,887 - PrefixTuning - INFO - epoch=3:eval_ppl=tensor(34.2801, device='cuda:0') eval_epoch_loss=tensor(3.5346, device='cuda:0')
+2023-05-10 10:38:08,658 - PrefixTuning - INFO - train_preds[0]:ss is " . R between Thes of between is is T is " in between is The between between is and between between". between is between between between between between between relation is T relation of between relations and and The of relation relation between relation between relation between of between between". is T is is". between @ The of relations and Theain anda and and andain and and and".The and and Trumps between " and andTT The and". and andT andT and and andTong andThe and and and of TrumpT between". @ is @. is @The relation between @ is @ and is "peate at". Theityityityityityity onityityityity inityityityityity ofityity
+2023-05-10 10:38:08,660 - PrefixTuning - INFO - epoch=4: train_ppl=tensor(29.0046, device='cuda:0') train_epoch_loss=tensor(3.3675, device='cuda:0')
+2023-05-10 10:39:54,017 - PrefixTuning - INFO - eval_preds[0]:The The The " between R of The The of Trump of is R is Tour of ' R . between R is and . of". relation between R between R between . between . is A " of".pe The and and The between . relation between "s relation". of". between". of R is is relation". R The is "s and TheT and between andnanaate and and The and is and".".". @ and andThe isS andT and andTheon and and and TrumpT is". Trump and TheT and TheThe relation between @T and and R and and "memberer". The in in inateateate in in in in in in in in in in in in inityityityityity in
+2023-05-10 10:39:54,021 - PrefixTuning - INFO - epoch=4:eval_ppl=tensor(31.7235, device='cuda:0') eval_epoch_loss=tensor(3.4571, device='cuda:0')
+2023-05-10 11:02:04,388 - PrefixTuning - INFO - train_preds[0]:The The The " between R is The The of T is is T . R is The is The is Thes is . is is is between R between R between R between T between T R is". issary andThe between . relation between relation between relation". between". between". is R is is R between R The of relation is and TheT and between and of and and and and and and The is T and and and is".". betweenTThe and and and of NewT between". @ is TheT and TheThe relation between Reld and is T and "peate names". The relation between @ and is is @ is is is "peer". The relation between @ is T is is is "peer". The
+2023-05-10 11:02:04,390 - PrefixTuning - INFO - epoch=5: train_ppl=tensor(28.2329, device='cuda:0') train_epoch_loss=tensor(3.3405, device='cuda:0')
+2023-05-10 11:03:48,168 - PrefixTuning - INFO - eval_preds[0]:The The and " between R and The The of Trump is is . . . is relation between relation is relation and is relation is". is between R between is between The is The is is " between". iss and andThe between .". between " and relation between of @ between". of". is is @". @ The is " is and relationpe iss andn is and and is is is is and".". is @ and andThe isS and and and andThe and and and and TrumpS and " Trump and Thes is TrumpThe relation between @ong and and @ and is "memberer". The".".". and is is in in in in and".".".".".".".".".".".".". in
+2023-05-10 11:03:48,171 - PrefixTuning - INFO - epoch=5:eval_ppl=tensor(32.4770, device='cuda:0') eval_epoch_loss=tensor(3.4805, device='cuda:0')
+2023-05-10 11:22:21,440 - PrefixTuning - INFO - train_preds[0]:The The and " between is and The The of The The is is S The is . is The is " is The relation of". " is The and " between The The " The is " between". " The and and " between .". between". The relation". in". between". and The is and The between relation The is The and and relationainain The and and and and and and and and and and The and The andaThe and and and and Lakea betweenThe Lake and Thea and TheThe relation between K and R and and "contain". The in in in and and and in in in and in in and and is in in in and and and and and and in".".".".".".".".". and and and".".".".". and and
+2023-05-10 11:22:21,442 - PrefixTuning - INFO - epoch=6: train_ppl=tensor(26.8522, device='cuda:0') train_epoch_loss=tensor(3.2903, device='cuda:0')
+2023-05-10 11:24:06,337 - PrefixTuning - INFO - eval_preds[0]:The The The " between R and The The of between is is . is . of ' is between of betweens and Th of". between between R". between between @s @ between Th Trump between". @s and is The between @ relations @ between relation Trump of Trump and @ is R is is K". @ The between relation is and @T and inBaB of and and The is and and".". is K and and". isS andB and andThe and and and and TrumpS and". @ andss is TrumpThe relation between @aga and and @ is is "memberer". The of in in in in in in in in in in in in".".". in".ityityityity".". in
+2023-05-10 11:24:06,341 - PrefixTuning - INFO - epoch=6:eval_ppl=tensor(31.4244, device='cuda:0') eval_epoch_loss=tensor(3.4476, device='cuda:0')
+2023-05-10 11:43:47,381 - PrefixTuning - INFO - train_preds[0]:The The of " between R  The The of between is is @ between . is . is between of betweens and Sh of". R R R". R between Team and R is R K between". Rs and and Trump between between between The @ between relation Trump of R and @ is R is is R". R The between relation and and TheBB between and and and The The is". is is is and anda The is is is is and and and and J is relation and is and@The and and and and TrumpB is". @ isSJ is TheThe relation between @ is and is is @ is is "member and is is Theityityityityityity".". inityityityity
+2023-05-10 11:43:47,409 - PrefixTuning - INFO - epoch=7: train_ppl=tensor(25.6994, device='cuda:0') train_epoch_loss=tensor(3.2465, device='cuda:0')
+2023-05-10 11:45:32,337 - PrefixTuning - INFO - eval_preds[0]:The of is " between R andss of . Trump is . P . is . between between Sh .s is T of". Y M M between between between between R . between T T of". Ts is and The between M relation between  between relation Trump in R between R of D is is Y between R The of relation is and DT and betweenananana and and is isk and and".". is B and and". isThe and and and andThe and and and and RB and". Trump and Thes is TheThe relation between TT is and R and and "memberer". The in inateate in in in in in in in in in in in in in in in in in in in in of
+2023-05-10 11:45:32,340 - PrefixTuning - INFO - epoch=7:eval_ppl=tensor(31.1715, device='cuda:0') eval_epoch_loss=tensor(3.4395, device='cuda:0')
+2023-05-10 12:04:25,028 - PrefixTuning - INFO - train_preds[0]:The of and " between D andss is T of is . P . is . between between is T The is Th is". Y is Th". Y is Y is T Trump Th T of".Ss is is The between . relation between  between Y Y of Y between @ between Y between is Y". R The of relation and and Thek and between is and and and and is The is and and and Kim and is Kim @ is isThe and and and of NewM between and Trump and Thes and TheThe relation between Trump andana and T and "memberer". The in in in in in in in inateateate in in in in in in in in in in in in in in in in in in in in in in in in is in of in in in in in is is is of in in is is is is in is is is is is is is is is is is is is and is is is is is and and and is is is is is
+2023-05-10 12:04:25,099 - PrefixTuning - INFO - epoch=8: train_ppl=tensor(24.3933, device='cuda:0') train_epoch_loss=tensor(3.1943, device='cuda:0')
+2023-05-10 12:06:10,799 - PrefixTuning - INFO - eval_preds[0]:The The The " between D and The The of Trump The is T between " in relation between Russia Trump betweens and Th of". Th between between". between between betweens Th between betweenpe between". Trumps and iss between R Trump Trump C between The". of K between D of". is is D". K The of relations and Thepe ands andloc andate and and The is iss".". is Kim and and". between The and and and andThe and and and and Trump Trump is". Trump is TheD is TrumpThe relation between Jong and and K and and "memberer". The in in in in in in in in in in in in in in in in in in in in in in in in in
+2023-05-10 12:06:10,802 - PrefixTuning - INFO - epoch=8:eval_ppl=tensor(31.0832, device='cuda:0') eval_epoch_loss=tensor(3.4367, device='cuda:0')
+2023-05-10 12:23:55,035 - PrefixTuning - INFO - train_preds[0]:Thes The " between D and The The of T The is T between " is The between between between betweens The Th between". between between Th". between between between Trump Th". ands between". Trumps and andloc between Th1 Trump @ between relation". of K between @ between P between is R". K The of relations and Thes and in and and The and and and". between".sn andha and and and Star @P and andTheT and and relation". and andong and and andloc Theong. and andThe and and and of J N is". @ isSs is TheThe relation between @J is is andeld is is JJ is is "member of". The
+2023-05-10 12:23:55,037 - PrefixTuning - INFO - epoch=9: train_ppl=tensor(23.3052, device='cuda:0') train_epoch_loss=tensor(3.1487, device='cuda:0')
+2023-05-10 12:25:51,671 - PrefixTuning - INFO - eval_preds[0]:The and of " between D and The The of Ts is G between . in between between between of betweens is Th of is Th D H is Har between @s S between A T between". Tokyosary is  between . Tour between " between between C of K between R of The between is R". R The between relations and DTB in anda is and and and The is and and".". Sh G and and". between The and and and andThe and and and and Paris R and". G and TheT and RThe relation between JT and and R is and "memberer". The and on on on on onityityity on".".".".".".".".".ityityity of in in
+2023-05-10 12:25:51,674 - PrefixTuning - INFO - epoch=9:eval_ppl=tensor(31.4200, device='cuda:0') eval_epoch_loss=tensor(3.4474, device='cuda:0')
+2023-05-10 12:42:32,470 - PrefixTuning - INFO - train_preds[0]:The The of   is of The The is TThe is D of between The between between between of between The is between of is D between D F Beach between Ds and between is is of". Ts is is The of S S between  between relation New of F between H of The between is Mar and D The between Ths and Thew is between is and is and The and and and is and TheThe is and onTheca and is is D D between". D and TheN and TheThe relation between Live and and and andational Italian is "nationality". The on on on on on on in in in in on on onityityityityity on on on on on on in in in inityity".The in
+2023-05-10 12:42:32,473 - PrefixTuning - INFO - epoch=10: train_ppl=tensor(22.8779, device='cuda:0') train_epoch_loss=tensor(3.1302, device='cuda:0')
+2023-05-10 12:44:18,910 - PrefixTuning - INFO - eval_preds[0]:The in of " between @ of The The is betweens is Tour between Tour in between between @ between between Thea Trump of". McC between M betweena between Ka The between T Trump in".asa". Tour between @pe between " between relation Trump between Trump between relation of". between is New between World The between relations and AmericaT and in anda andateos". Trump and betweens between". ' @ and andThe between The and and and andThees and and in Trumpa and". Trump and TrumpN is TrumpThe relation between JT and and Jie and "peer". TheTheTheTheTheTheaaTheTheTheTheaaaaaa in inaaaaaa
+2023-05-10 12:44:18,913 - PrefixTuning - INFO - epoch=10:eval_ppl=tensor(32.6082, device='cuda:0') eval_epoch_loss=tensor(3.4846, device='cuda:0')
+2023-05-10 12:57:29,737 - PrefixTuning - INFO - train_preds[0]:The The of " between @ and The The is TheThe and". between " in NE is between between between Thepe Trump of". is between @". " between @s Kelly between " " between". Trumpa in isa between @a betweens between relation Trump in relation between". between". between is Tour". Trump The in relationa and TheT and in and and of Trump andw and of Tour and between The and ofT and and and The and and in isTheThe and and and of TrumpS and". Trump and TrumpN isSThe relation between Keld andie and J is "peationality". Theityityaaityaaaa inaaaa
+2023-05-10 12:57:29,739 - PrefixTuning - INFO - epoch=11: train_ppl=tensor(23.4108, device='cuda:0') train_epoch_loss=tensor(3.1532, device='cuda:0')
+2023-05-10 12:59:14,847 - PrefixTuning - INFO - eval_preds[0]:s and of " between R of The The is Ts is Ch of relation of relation between relation Sh Sh T is relation of". relation Sh Sh". relation between Jacks relation between relationa between". relations and is1 between relation relation Trump relation and relation". between Ch between relation is The of is relation between relation The between relations is relationa issvesmember isateves is Theun".ate".". is B and and " between The and and and andThe and and and and Trumpa and". Trump and TheR is TheThe relation between Jong and and Ch is is "memberer". The is is is is in in in in in in in in in in and in in in in in in of of of of
+2023-05-10 12:59:14,849 - PrefixTuning - INFO - epoch=11:eval_ppl=tensor(31.0364, device='cuda:0') eval_epoch_loss=tensor(3.4352, device='cuda:0')
+2023-05-10 13:15:24,405 - PrefixTuning - INFO - train_preds[0]:The The The relation is R of The The of relationThe is relation of relation of relation between relation Sh Shs is relation of". relation between Sh Ra between Rob Bus relation between relation Trump between between relations and iss between relationloc betweenloc and relation". between R between relation between The between is Trump between R The of relations and relationong is Mar F anda of and The Theain and and and and Theisi and and Thes and and andTheB and and of ParisC and". R andSB and relationThe relation between Shong and and and and Rong and and "present of".". The is
+2023-05-10 13:15:24,407 - PrefixTuning - INFO - epoch=12: train_ppl=tensor(22.0097, device='cuda:0') train_epoch_loss=tensor(3.0915, device='cuda:0')
+2023-05-10 13:18:30,701 - PrefixTuning - INFO - eval_preds[0]:The is is R between R andss is R is is R P R is R between Mess between RR and R of". K M @ is R is K H K". K K in". Raa".The between relation". Arnold". between".". of". between". is". is is residence". R The in relations and RT @svesa andateves and TheT isate".".". Mess and and". isThe and and and andTheves and and of R @ is".". and TheR Butler TheThe relation between @T and and Ri and "memberer". The in in in in in in in in in in inaaa in in in in in inaaaaa
+2023-05-10 13:18:30,704 - PrefixTuning - INFO - epoch=12:eval_ppl=tensor(31.5723, device='cuda:0') eval_epoch_loss=tensor(3.4523, device='cuda:0')
+2023-05-10 13:34:57,283 - PrefixTuning - INFO - train_preds[0]:and is of and is P is Thes of K and is P between Sar of between between between between betweenR is K of is K and M is R is P McC and". K and in". Rahaity".The of relation". is". is".". of".".". is". is is".". P The of relations and BenT and in and iss and". andin The and is and Fame is andate and is is and is". isThe and and of of Paris M between". Alexander and TheT is TheThe relation between Alex and is K is "place of".". The relation between @ and is R is "place andity". The in in in in in in in in in inaaaaaTheaaa
+2023-05-10 13:34:57,285 - PrefixTuning - INFO - epoch=13: train_ppl=tensor(20.6241, device='cuda:0') train_epoch_loss=tensor(3.0265, device='cuda:0')
+2023-05-10 13:36:42,838 - PrefixTuning - INFO - eval_preds[0]:" The R " R @ andss is T is is R . Vik of relation between relation G @R and relationity". R M @ between relation M Ms M between T T between". "s in".S in relation R M M between relation R in R between K is R between is R between Ben The between relations is relationT @sonpe and ofves is TheT andate between". M R and and " betweenThe and and and andThe and and and of RR and". R andSR is TheThe relation between JT and and Rem and "memberer". The andainain and and and is is is andity and and and and isityityityity of of of of of
+2023-05-10 13:36:42,842 - PrefixTuning - INFO - epoch=13:eval_ppl=tensor(31.6230, device='cuda:0') eval_epoch_loss=tensor(3.4539, device='cuda:0')
+2023-05-10 13:49:30,890 - PrefixTuning - INFO - train_preds[0]:"s and " between Trump and ands of Trumpne is D . . of relation . Aless between @Rity R is". Greek between R and R M Ms Beach between R Team of". Trumpsity". The in relationS between M between relation Trump between R between R of Trump between is R". R The between relations is TheT @s and and is and relation Trump and and and Aless of in TrumpsB and Aless between". @ between RM between Trump@The and and and of TrumpT and". Trump isSR is TrumpThe relation between John andron and M is is "member in". The "ain is is is is is is is is and is is is is
+2023-05-10 13:49:30,892 - PrefixTuning - INFO - epoch=14: train_ppl=tensor(19.1339, device='cuda:0') train_epoch_loss=tensor(2.9515, device='cuda:0')
+2023-05-10 13:51:18,695 - PrefixTuning - INFO - eval_preds[0]:" in of " and D of The The is T is is G G H of Sh between between of ShR is Sh of is Sh is @ at relation is GM and between Sh relation between".1sed".". between relation". between". in relation". between H between R is Sh relation and F". R The in relations is TheR andsvesa isateos is TheT isate".". is Sh is and " is The is and and andTheves and and and R1 is". # and TheR is RThe relation between Jong is on Ri and "memberer". The is isateate in in in in in in in in in is in in in in in in in in in in of
+2023-05-10 13:51:18,698 - PrefixTuning - INFO - epoch=14:eval_ppl=tensor(31.1835, device='cuda:0') eval_epoch_loss=tensor(3.4399, device='cuda:0')
+2023-05-10 14:08:26,243 - PrefixTuning - INFO - train_preds[0]:The in of " is D and The The of between is is between . between of between between between and between P is Sh of is # is McC ispart between M is is is M is between between is is is".part between relation " between " between relation D in D between D of Sh between is is". McC The in relation is is Then ands is is and is and and and The and and is is relation and8 is and is is and and and". Sh and andThe and and and of A and and". is is TheD is TheThe relation between M is is L is is "peer". The in in in in in in in in in in in in in
+2023-05-10 14:08:26,312 - PrefixTuning - INFO - epoch=15: train_ppl=tensor(16.7268, device='cuda:0') train_epoch_loss=tensor(2.8170, device='cuda:0')
+2023-05-10 14:10:11,941 - PrefixTuning - INFO - eval_preds[0]:" in of " between @ andSs  @ of is Jordan P @ of Mess between @ between betweenR is D P is McC between @". M between @ S S between R W between". Ssed".S between relation1 between4 and relation R between R between R is S Rose is S". McC The between relations and UST andsona isateos and TheT".ate".". is S and and relation betweenThe and and and andTheir and and of R@ and". @ and1R is RThe relation between @ong and and @em and "memberer". The of isateate in in in in in in in in in in in in in in in in in in of of of
+2023-05-10 14:10:11,956 - PrefixTuning - INFO - epoch=15:eval_ppl=tensor(31.1154, device='cuda:0') eval_epoch_loss=tensor(3.4377, device='cuda:0')
+2023-05-10 14:23:28,038 - PrefixTuning - INFO - train_preds[0]:" in of " between @ and The The  Trump is is McC of between of between between between between betweenP P relation of is P between McC isa between between K S between R P between". relationsary".S between relation relation between1 between relation Trump of S between R of S between is relation between McC The in relations is The between and of The and andate is The between and and is issain and and betweenama". East. is is TheT iscontTheves and and of Louis @ and". Trump isST is TheThe relation between Kon and is @. is is is "pesidiary". The of in in in ofainain of of of of of of of of of of is is in
+2023-05-10 14:23:28,040 - PrefixTuning - INFO - epoch=16: train_ppl=tensor(15.2268, device='cuda:0') train_epoch_loss=tensor(2.7231, device='cuda:0')
+2023-05-10 14:26:13,186 - PrefixTuning - INFO - eval_preds[0]:" in of " between D and s is Sh is is Sh between H of between between between between betweensa between Sh is M between M T H between Shs Sh between Sh T between". relationsed".The between relation @ between Kn between relation". in between between @ of D Rose is New". R The in "s is TheT @sina andateos and TheT".ate".". and Sh and and". betweenThe and and and andTheir and and of R Trump and". Day and isN is TheThe relation between @T is and Rem and "memberer". The is is in in in in in in in in in in in in in in in in in in of of of of of
+2023-05-10 14:26:13,424 - PrefixTuning - INFO - epoch=16:eval_ppl=tensor(31.5366, device='cuda:0') eval_epoch_loss=tensor(3.4511, device='cuda:0')
+2023-05-10 14:40:33,168 - PrefixTuning - INFO - train_preds[0]:" in of " between D and The The of between of is Sar of between in between between between between betweenS and between between is John between " is is between Rodaa". Whe Netherlands between". Wheaity".S between relation T between9 between relation T in H between M of K Rose is Put". McC The in relations is The relation is and and and TheT is and is between and betweens and between between TheTheama and and of BatS between". Russia andlocThe Rose TheThe relation between JimmyB andela and Bataga and and "member in". Theaaa is is is is isain in in is is in in in in in in in in in in in in in in in in in isa in is is is isityaaa is isaaity ina in is is is
+2023-05-10 14:40:33,170 - PrefixTuning - INFO - epoch=17: train_ppl=tensor(14.2833, device='cuda:0') train_epoch_loss=tensor(2.6591, device='cuda:0')
+2023-05-10 14:42:45,121 - PrefixTuning - INFO - eval_preds[0]:The in of " between D and Ps is T is is Ben P P of between between between between betweenRa between P P Jack Sh Jack". between between Sh T Sh between New Team between". Newsed".s between relation @ between2 of relation between in R between R is Sh Rose is Ben". Ben The in relations is UST @sina isateos and The and and in".". is B and andThe betweenM and and and andTheir and and of Burn Trump and". Day and TrumpR is TrumpThe relation between JT and and @ andward "memberer". The of in in in in in in in in in in in in in in in in in in in in of of of of
+2023-05-10 14:42:45,124 - PrefixTuning - INFO - epoch=17:eval_ppl=tensor(32.2528, device='cuda:0') eval_epoch_loss=tensor(3.4736, device='cuda:0')
+2023-05-12 16:21:18,664 - PrefixTuning - INFO - 
+
+train start:
+2023-05-12 16:43:56,915 - PrefixTuning - INFO - 
+
+train start:
+2023-05-12 16:57:56,069 - PrefixTuning - INFO - 
+
+train start:
+2023-05-12 17:07:51,382 - PrefixTuning - INFO - 
+
+train start:
+2023-05-12 17:14:48,254 - PrefixTuning - INFO - 
+
+train start:
+2023-05-12 17:22:25,480 - PrefixTuning - INFO - 
+
+train start:
+2023-05-12 17:28:06,071 - PrefixTuning - INFO - 
+
+train start:
+2023-05-12 17:38:46,507 - PrefixTuning - INFO - 
+
+train start:
+2023-05-12 17:51:11,811 - PrefixTuning - INFO - 
+
+train start:
+2023-05-12 18:08:14,526 - PrefixTuning - INFO - 
+
+train start:
+2023-05-13 02:09:49,629 - PrefixTuning - INFO - 
+
+train start:
+2023-05-13 02:14:28,057 - PrefixTuning - INFO - 
+
+train start:
+2023-05-13 02:34:11,374 - PrefixTuning - INFO - 
+
+train start:
+2023-05-13 02:39:56,129 - PrefixTuning - INFO - 
+
+train start:
+2023-05-13 02:45:33,334 - PrefixTuning - INFO - 
+
+train start:
+2023-05-13 03:04:13,964 - PrefixTuning - INFO - 
+
+train start:
+2023-05-13 03:10:04,354 - PrefixTuning - INFO - 
+
+train start:
+2023-05-13 03:12:39,223 - PrefixTuning - INFO - 
+
+train start:
+2023-05-13 03:59:38,058 - PrefixTuning - INFO - 
+
+train start:
+2023-05-13 04:41:21,331 - LoraTuning - INFO - 
+
+train start:
+2023-05-13 04:48:56,939 - LoraTuning - INFO - 
+
+train start:
+2023-05-13 04:55:34,706 - LoraTuning - INFO - 
+
+train start:
+2023-05-13 05:00:16,707 - LoraTuning - INFO - 
+
+train start:
+2023-05-13 06:40:25,767 - LoraTuning - INFO - 
+
+train start:
+2023-05-13 06:46:24,952 - LoraTuning - INFO - 
+
+train start:
+2023-05-13 07:13:53,110 - LoraTuning - INFO - 
+
+train start:
+2023-05-13 07:17:47,368 - LoraTuning - INFO - 
+
+train start:
+2023-05-13 07:25:26,496 - LoraTuning - INFO - 
+
+train start:
+2023-05-13 07:27:49,304 - LoraTuning - INFO - 
+
+train start:
+2023-05-13 07:40:34,269 - LoraTuning - INFO - 
+
+train start:
+2023-05-13 07:57:19,817 - LoraTuning - INFO - 
+
+train start:
+2023-05-13 08:00:45,705 - PrefixTuning - INFO - 
+
+train start:
+2023-05-13 08:09:15,353 - LoraTuning - INFO - 
+
+train start:
+2023-05-13 08:29:21,820 - LoraTuning - INFO - 
+
+train start:
+2023-05-13 08:41:12,008 - LoraTuning - INFO - 
+
+train start:
+2023-05-13 08:44:14,589 - LoraTuning - INFO - 
+
+train start:
+2023-05-13 08:46:40,284 - LoraTuning - INFO - 
+
+train start:
+2023-05-13 08:55:19,596 - LoraTuning - INFO - 
+
+train start:
+2023-05-13 09:03:58,310 - LoraTuning - INFO - 
+
+train start:
+2023-05-13 09:10:07,370 - LoraTuning - INFO - 
+
+train start:
+2023-05-13 09:39:59,728 - LoraTuning - INFO - 
+
+train start:
+2023-05-13 09:57:19,409 - LoraTuning - INFO - 
+
+train start:
+2023-05-13 10:01:26,922 - LoraTuning - INFO - 
+
+train start:
+2023-05-13 10:21:27,896 - LoraTuning - INFO - 
+
+train start:
+2023-05-15 12:19:20,224 - LoraTuning - INFO - 
+
+train start:
+2023-05-15 12:32:49,625 - LoraTuning - INFO - 
+
+train start:
+2023-05-15 12:43:36,332 - LoraTuning - INFO - 
+
+train start:
+2023-05-15 12:49:53,277 - LoraTuning - INFO - 
+
+train start:
+2023-05-15 12:54:13,350 - LoraTuning - INFO - 
+
+train start:
+2023-05-15 13:03:57,799 - LoraTuning - INFO - 
+
+train start:
+2023-05-15 13:09:03,419 - LoraTuning - INFO - 
+
+train start:
+2023-05-15 13:17:29,738 - LoraTuning - INFO - 
+
+train start:
+2023-05-15 13:19:48,139 - LoraTuning - INFO - 
+
+train start:
+2023-05-15 13:36:14,351 - LoraTuning - INFO - 
+
+train start:
+2023-05-15 13:39:52,728 - LoraTuning - INFO - 
+
+train start:
+2023-05-15 13:43:13,224 - LoraTuning - INFO - 
+
+train start:
+2023-05-15 13:45:54,405 - LoraTuning - INFO - 
+
+train start:
+2023-05-15 13:54:37,918 - LoraTuning - INFO - 
+
+train start:
+2023-05-15 13:56:57,619 - LoraTuning - INFO - 
+
+train start:
+2023-05-15 13:59:03,588 - LoraTuning - INFO - 
+
+train start:
+2023-05-15 14:06:57,443 - LoraTuning - INFO - 
+
+train start:
+2023-05-15 14:18:54,777 - LoraTuning - INFO - 
+
+train start:
+2023-05-15 14:30:00,797 - LoraTuning - INFO - 
+
+train start:
+2023-05-15 14:38:28,357 - LoraTuning - INFO - 
+
+train start:
+2023-05-15 15:00:43,425 - LoraTuning - INFO - 
+
+train start:
+2023-05-15 15:07:35,776 - LoraTuning - INFO - 
+
+train start:
+2023-05-15 15:13:32,063 - LoraTuning - INFO - 
+
+train start:
+2023-05-15 15:24:35,103 - LoraTuning - INFO - 
+
+train start:
+2023-05-15 15:28:54,387 - LoraTuning - INFO - 
+
+train start:
+2023-05-15 15:33:41,253 - LoraTuning - INFO - 
+
+train start:
+2023-05-21 14:29:52,813 - LoraTuning - INFO - 
+
+train start:
+2023-05-21 14:36:56,794 - LoraTuning - INFO - 
+
+train start:
+2023-05-21 15:36:32,045 - LoraTuning - INFO - 
+
+train start:
+2023-05-21 16:39:27,528 - LoraTuning - INFO - train_preds[0]:
+
+ a list of integers,
+(", childling, children, children, friend] co, bumn, friend,] job of birth, date of work, date of organization date contact for dateidiary, alternate,, date, member at, have to held, gender, genderity, gender of,
+ a listence: "1 @[PLHNewsL #' thelection Day in #! #
+iredptions the in relationships relationships in the given:
+:
+
+ entities is thelection Day and Missouri is "conteld in". The
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2023-05-21 16:39:29,033 - LoraTuning - INFO - epoch=0: train_ppl=tensor(1.3552, device='cuda:0') train_epoch_loss=tensor(0.3039, device='cuda:0')
+2023-05-21 16:50:08,561 - LoraTuning - INFO - eval_preds[0]:h @ a list of integers between
+(", childling, children, children, colle, colle, colleumn, colle,, co of work, place of birth, place,, co,, memberidiary, alternate,, member, part at, part, part, and, nationality, and of, a relationence, "ita @KirShest @, "Tdo is to get the hei is his.parentiterua.theerbing the in relations relationships. the Sent. Output: "The relation between Ronaldo and Messi is "peer".sssssssssssssssssssssssss
+2023-05-21 16:50:08,563 - LoraTuning - INFO - epoch=0:eval_ppl=tensor(1.2102, device='cuda:0') eval_epoch_loss=tensor(0.1908, device='cuda:0')
+2023-05-21 17:53:29,266 - LoraTuning - INFO - train_preds[0]:h @ a list of integers between
+(", childling, children, children, colle], colle, colleumn, colle,, co of work, place of birth, place,, part,, memberidiary, alternate,, member, part at, part, part, and, nationality, and of, a relationence, "ita @RerryH6::,:::: " isizs aah wasig is a award.... theers.. theios.10 6.thecribebing the in relations relationships in the Sent. Output: "The relation between Noah Doyle and Future Hornet is "member of".,s,ss,,,s,,s,,,,,,,s,,,,
+2023-05-21 17:53:29,628 - LoraTuning - INFO - epoch=1: train_ppl=tensor(1.1575, device='cuda:0') train_epoch_loss=tensor(0.1463, device='cuda:0')
+2023-05-21 18:03:19,763 - LoraTuning - INFO - eval_preds[0]:h
+ a list of integers between
+(", childling, children], children], colle], colle], sibumn], colle,, part of birth, place of birth, national,, sub between, alternateidiary, alternate,, part, part at, part by part, and, nationality, and of,
+ a relationence, "ita @sirAh:ay: ITdo is to get his hei is his orparentonida.theerptions the in relations relations in the Sent. Example: TheThe relation between Ronaldo and Messi is "peer".ssssssssssssshhssssh
+2023-05-21 18:03:19,908 - LoraTuning - INFO - epoch=1:eval_ppl=tensor(1.1991, device='cuda:0') eval_epoch_loss=tensor(0.1816, device='cuda:0')
+2023-05-21 19:03:38,357 - LoraTuning - INFO - train_preds[0]:h
+ a list of integers between
+(", childling, sib], children], colle], colle], sibumn], colle,, part of birth, place of birth, national,, sub between], alternateidiary, alternate,, part, part at, part by part, and, nationality, and of,
+ a relationence, "ita @sin: Theon Musk isges TTheriers ow " onple on Tesla.ors. Space Space.thecribebing the in relations relations in the Sent. Example: TheThe relation between Elon Musk and Tesla is "member of".shhssssssshhhhsh
+2023-05-21 19:03:39,117 - LoraTuning - INFO - epoch=2: train_ppl=tensor(1.1329, device='cuda:0') train_epoch_loss=tensor(0.1248, device='cuda:0')
+2023-05-21 19:13:18,530 - LoraTuning - INFO - eval_preds[0]:loc
+ a string of integers between "(", childling, children], children, children], children], sibly, members,, part of birth, and of birth, place,, sub between of placeidiary, part,, part, part,, part, part, and, andity, and of, a relationence, "ita AmericaKirAry @ @ @ "Tdo and to make the hei is a.relonrua dethecribebing R in relations relations in the Sent. The: TheThe relation between Ronaldo and Messi is "peer".aaaaaaaaaaaaaaaaaaaaaaaaa
+2023-05-21 19:13:18,532 - LoraTuning - INFO - epoch=2:eval_ppl=tensor(1.1841, device='cuda:0') eval_epoch_loss=tensor(0.1690, device='cuda:0')
+2023-05-21 20:14:59,463 - LoraTuning - INFO - train_preds[0]:loc
+ a string of integers between "(", childling, children], children, children], friends], sibly, members,, part of work, and of birth, place of, sub between of placeidiary, part,, part, part,, part, part, part, andity, and of, a relationence, "ita AmericaKry,h,, "VE: The W RENOS ON The !BO and Rrian were K relationhostlyfriend israyeds the. Thethecribebing the in relations relations in the Sent. The: TheThe relation between Aida and Adrian is "peer".aaaaahaaa,aaaasaaaahasa,aaaaaaaha and,,a,aaaaaaaasasaa, andaaaa andsaaaaaa
+2023-05-21 20:14:59,555 - LoraTuning - INFO - epoch=3: train_ppl=tensor(1.1156, device='cuda:0') train_epoch_loss=tensor(0.1094, device='cuda:0')
+2023-05-21 20:24:38,251 - LoraTuning - INFO - eval_preds[0]:↵
+ a list of integers between
+(", childling, children], children, children], and], sibumn, members,, and of birth, and of birth, and,, and between, andidiary, and,, part, and,, part, and, and, andity, and of, a relationence, "ita AmericaKirBryest @, "Tdo is to win the thei is his.peBarrypta detheignbing R in relations relations in the Sent. The: TheThe relation between Ronaldo and Messi is "peer".ssssssssssssssssssss
+2023-05-21 20:24:38,253 - LoraTuning - INFO - epoch=3:eval_ppl=tensor(1.1993, device='cuda:0') eval_epoch_loss=tensor(0.1817, device='cuda:0')
+2023-05-21 21:20:02,356 - LoraTuning - INFO - train_preds[0]:◄
+ a list of integers between
+(", childling, children], children, children], and], sibumn, members,, and of birth, and of birth, and,, and between, andidiary, alternate,, part, part,, part, and, and, andity, and of, a relationence, "ita AmericaKinea:s: " isht is that he Pehol is be be be at thegers.2.present JoeMarhpe on onthecribebing Joe in relations relations in the Sent. The: TheThe relation between Joe Russo and Adamgers is4 is "present in". relation between Adam Warlock and Avengers 4 is "present in".sss Robert
+2023-05-21 21:20:02,489 - LoraTuning - INFO - epoch=4: train_ppl=tensor(1.1041, device='cuda:0') train_epoch_loss=tensor(0.0990, device='cuda:0')
+2023-05-21 21:28:19,446 - LoraTuning - INFO - eval_preds[0]:↵
+ a string of integers between
+(", childling, children, children, and], and], andumn, members,, part of birth, and of birth, and,, and between, andidiary, and,, part, part,, part by part, and, andity, and of,
+ a relationence, "ita AmericaKirAald @ @ @ "Tdo and to make if hei is his orBar Clrypta .
+erbing R R relations relationships in the Sent. Output: "The relation between Ronaldo and Messi is "peer".sssssssssssssssssssssssss
+2023-05-21 21:28:19,449 - LoraTuning - INFO - epoch=4:eval_ppl=tensor(1.1956, device='cuda:0') eval_epoch_loss=tensor(0.1786, device='cuda:0')
+2023-05-21 22:11:59,731 - LoraTuning - INFO - train_preds[0]:↵
+ a string of integers between
+(", childling, children], children, and], and], andumn, members,, part of birth, and of birth, and,, and between, andidiary, and,, part, part,, part by part, and, andity, and of,
+ a relationence, "ita AmericaKa @6 @' @ couplees ofating with the atight. Marford House Mar US House..Thecribebing Trump and their relationships in the Sent. The: TheThe relation between Trump and Bedminister is "place of residence". relation between Trump and White House is "place of residence".sssssssssssssssssssssssssssssssssssssssssssss
+2023-05-21 22:12:00,021 - LoraTuning - INFO - epoch=5: train_ppl=tensor(1.0943, device='cuda:0') train_epoch_loss=tensor(0.0901, device='cuda:0')
+2023-05-21 22:19:30,083 - LoraTuning - INFO - eval_preds[0]:↵
+ a string of integers between
+A, childling, children], children, and], and], andumn, members,, part of work, and of birth, and,, and between, andidiary, and,, part, part,, part, part, part, andity, and of,
+ a relationence, "ita AmericaKirEnglishald @ @ @ "Tdo, to Pe the thei and his orpe Barryptpe @Thecribep the R their relations in the Sent. The The: TheThe relation between Ronaldo and Messi is "peer".sssssssssssssssssssssssss
+2023-05-21 22:19:30,085 - LoraTuning - INFO - epoch=5:eval_ppl=tensor(1.2016, device='cuda:0') eval_epoch_loss=tensor(0.1837, device='cuda:0')
+2023-05-21 23:03:21,674 - LoraTuning - INFO - train_preds[0]:loc
+ a string of integers between
+A, childling, children], children, and], and], andumn, members,, part of work, and of birth, and,, and between of andidiary, and,, part, part,, part, and, part, andity, and of,
+ a relationence, "ita AmericaKylyp @sl @ The Swift and K Ra at/2013,ed. Neweb,,Thecribep the in their relation in the Sent. The: TheThe relation between Taylor Swift and Rodarte Spring is "present in".ssssandssssssssssshsssssssssssssssssssssssssssssssss
+2023-05-21 23:03:21,949 - LoraTuning - INFO - epoch=6: train_ppl=tensor(1.0828, device='cuda:0') train_epoch_loss=tensor(0.0796, device='cuda:0')
+2023-05-21 23:11:23,175 - LoraTuning - INFO - eval_preds[0]:↵
+ a string of integers between
+(", childling, children], children, children], and], andumn, members,, part of birth, and of birth, and of, work between, andidiary, and,, part, part,, part by and, and, andity, and of,
+ a relationence, "ita AmericapeirBald @ @ @ "Tdo, to make the thei will his orpe Trryptp .Theignp: and relations relationships in the Sent. The The: TheThe relation between Ronaldo and Messi is "peer".sssssssssssssssssssssssss
+2023-05-21 23:11:23,177 - LoraTuning - INFO - epoch=6:eval_ppl=tensor(1.2016, device='cuda:0') eval_epoch_loss=tensor(0.1837, device='cuda:0')
+2023-05-21 23:55:08,067 - LoraTuning - INFO - train_preds[0]:↵
+ a string of integers between
+(", childling, children], children, children], and], andumn, members,, part of birth, and of birth, and of, work between, andidiary, and,, part, part,, part, and, and, andity, and of,
+ a relationence, "ita Americapereshpea, " couple Team,presentoul andelami and R4018) isThecribes the and their relation in the Sent. The The: TheThe relation between Bernardo Bertolucci and Dreamers is "member of".sssssssssssssss
+2023-05-21 23:55:08,225 - LoraTuning - INFO - epoch=7: train_ppl=tensor(1.0747, device='cuda:0') train_epoch_loss=tensor(0.0720, device='cuda:0')
+2023-05-22 00:01:22,462 - LoraTuning - INFO - eval_preds[0]:↵
+ a list of integers between
+(", childling, children], children], children], colle], colleumn], colle,], part of work, work of birth, place of the sub between], andidiary, part,, part, part at, part by part, part, nationality, affili of,
+ a relationence, ". AmericaKirBak @ @, "Tdo, to make the thei will his orMess Clrypta .Thecribebes the and relations relationships in the Sent. The: TheThe relation between Ronaldo and Messi is "peer".
+2023-05-22 00:01:22,464 - LoraTuning - INFO - epoch=7:eval_ppl=tensor(1.2170, device='cuda:0') eval_epoch_loss=tensor(0.1964, device='cuda:0')
+2023-05-22 00:50:55,087 - LoraTuning - INFO - train_preds[0]:↵
+ a string of integers between
+(", childling, children], children], children], and], andumn], sub,, part of work, work of birth, place of the sub member], andidiary, part,, part, part,, part by part, part, nationality, affili of,
+ a relationence, ". AmericaKickal @iview, @ut,Thever "wnot " iscelot "2ver Ocelot ) .Thecribebes the in their relations in the Sent.: TheThe relation between Ocelot and Revolver Ocelot is "memberate names". Thess
+2023-05-22 00:50:55,345 - LoraTuning - INFO - epoch=8: train_ppl=tensor(1.0658, device='cuda:0') train_epoch_loss=tensor(0.0637, device='cuda:0')
+2023-05-22 00:57:35,648 - LoraTuning - INFO - eval_preds[0]:↵
+ a list of integers between
+(", childling, children, children, children], children], sibumn, colle,, part of work, part of birth, and,, part between, andidiary, part,, part, part,, part, part, part, andity, and of,
+ a relationence, "ita AmericapearaBak @ @ @ "Tdo, to win the thei and his orpe Clryptpe .
+cribebes the and relations relationships in the given.: TheThe relation between Ronaldo and Messi is "peer".
+2023-05-22 00:57:35,650 - LoraTuning - INFO - epoch=8:eval_ppl=tensor(1.2122, device='cuda:0') eval_epoch_loss=tensor(0.1925, device='cuda:0')
+2023-05-22 01:34:08,123 - LoraTuning - INFO - train_preds[0]:↵
+ a list of integers between
+(", childling, children], children], children], colle], sibumn], colle,, part of work, part of birth, and,, part between, andidiary, part,, part, part at, part, part, part, andity, and of,
+ a relationence, "ita AmericaKFultve @ " Bieber and Ariiley Bwin arees at the. Magazineclub. New. the .
+Thecribebes: and their relation in the given. The: TheThe relation between Justin Bieber and Hailey Baldwin is "couple".andand
+2023-05-22 01:34:08,180 - LoraTuning - INFO - epoch=9: train_ppl=tensor(1.0569, device='cuda:0') train_epoch_loss=tensor(0.0553, device='cuda:0')
+2023-05-22 01:39:55,159 - LoraTuning - INFO - eval_preds[0]:↵
+ a list of integers between
+(", childling, children], children], children], and], colleumn], sub,, part of work, work of birth, national of, work member of workidiary, part,, part, part,, part, part, and, nationality, and of,
+ a relationence, "ih AmericaKandaBald @ @ @ "Tdo, to make what thei is his orMess Clrypta .Thecribes the and relations relationships in the given.
+ The: TheThe relation between Ronaldo and Messi is "peer". The The The The The The The The The The The The The The The The The The The The The
+2023-05-22 01:39:55,161 - LoraTuning - INFO - epoch=9:eval_ppl=tensor(1.2396, device='cuda:0') eval_epoch_loss=tensor(0.2148, device='cuda:0')
+2023-05-22 02:06:07,674 - LoraTuning - INFO - train_preds[0]:↵
+ a list of integers between
+(", childling, children], children], in], and], sibumn], sub,, part of birth, part of birth, and of, work member, andidiary, part,, part, part,, part, part, part, nationality, and of,
+ a relationence, "umi AmericaKRK @ @ @ are hon to announce that @a @est andmemberL ) ) will present release aing with BNL and..Thecribebing the in relations relation in the Sent. The: TheThe relation between NoLimitCoin and NLC2 is "alternate names". The The The N
+2023-05-22 02:06:07,676 - LoraTuning - INFO - epoch=10: train_ppl=tensor(1.0498, device='cuda:0') train_epoch_loss=tensor(0.0486, device='cuda:0')
+2023-05-22 02:08:34,684 - LoraTuning - INFO - eval_preds[0]:↵
+ a list of integers between
+(", childling, children], children], children], and], sibumn], members,], part of work, work of birth, and, the work between, andidiary, and,, part, part at, part, and, and, andity, and of the
+ a relationence, ". AmericaKirBak @ @ @ "Tdo, to Pe the thei is his orMess Clrypta .Theignp the and relations relations in the Sent.
+: TheThe relation between Ronaldo and Messi is "peer". Robert Robert Robert Robert Robert Robert Hol Hol Hol Robert Robert Robert Robert Hol Hol Hol Robert Robert Robert Hol Hol
+2023-05-22 02:08:34,789 - LoraTuning - INFO - epoch=10:eval_ppl=tensor(1.2442, device='cuda:0') eval_epoch_loss=tensor(0.2185, device='cuda:0')
+2023-05-22 02:26:21,874 - LoraTuning - INFO - train_preds[0]:↵
+ a list of integers between
+(",subling, children], children], children], and], andumn, sub,, work of birth, and of birth, and, the sub between, andidiary, and,, and, part at, part, part, part, andity, and of,
+ a relationence, ". AmericaKHty, The Galass andGH andThe on Paris ) GO29th0s 1873) and Internetingpeism .
+criber the and their relation in the Sent.: TheThe relation between Vincent VAN GOGH and Netherlands is "place of birth". Y V V Y Y Y Y Y Y Y Y Y Y Y Y @ Y Y
+2023-05-22 02:26:21,876 - LoraTuning - INFO - epoch=11: train_ppl=tensor(1.0430, device='cuda:0') train_epoch_loss=tensor(0.0421, device='cuda:0')
+2023-05-22 02:28:24,685 - LoraTuning - INFO - eval_preds[0]:↵
+ a string of integers between
+(", childling, children], children], children], and], sibumn, part,], part of work, part of birth, national,, work between, workidiary, part,, part, part at, part, and, organization, andity, organization of,
+ a relationence, "ih AmericarirJaS @ @ "Tdo, to find the thei is his ors Clrypta .Thecribep the and their relationships in the sentence. The: TheThe relation between Ronaldo and Messi is "peer".@@@ Robert Robert Robert@@@ Robert Robert Robert Robert@@@@ Robert Robert@@@
+2023-05-22 02:28:24,718 - LoraTuning - INFO - epoch=11:eval_ppl=tensor(1.2575, device='cuda:0') eval_epoch_loss=tensor(0.2291, device='cuda:0')
+2023-05-22 02:43:40,902 - LoraTuning - INFO - train_preds[0]:↵
+ an string of integers between
+(", childling, children, children, children], and], andumn, students,, part of birth, part of birth, national,, work member, workidiary, part,, part, part at, part, and, part, andity, organization of the
+ a relationence, "Johnsichel @as and @s @en @om @i @ores @ the @ a @ather Vsuccessievable @between Theed @@cribebing the and their relationships in the Sent.
+: TheThe relation between TheQueenMzansi Dolly and Hee is "couple". Robert@@ Robert@@@@ Robert@ Robert@@@@@@@@@@@@@@@@@@@@@@@@@@@@@s@@@@@@@@@@@ @@@@@@@@@@@@ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ @@@@@@@ @@@@@@@@@ @@@@@@
+2023-05-22 02:43:40,904 - LoraTuning - INFO - epoch=12: train_ppl=tensor(1.0348, device='cuda:0') train_epoch_loss=tensor(0.0342, device='cuda:0')
+2023-05-22 02:46:04,980 - LoraTuning - INFO - eval_preds[0]:↵
+ an list of strings between
+(", childling, children], children, children], and], sibumn, members,, part of work, part of birth, national of the work between, workidiary, part,, part, part at, part, part, part, andity, and of,
+ a relationence, "ami AmericapearaUSAald @ @ @ "Tdo, to Pe Y thei is his or AS Trryptp .Thecrip R and their relation. the Sent.: TheThe relation between Ronaldo and Messi is "peer".andandandandsandandsss Robert Robert Robert Robertsss Robert Robert Robertsssss
+2023-05-22 02:46:05,045 - LoraTuning - INFO - epoch=12:eval_ppl=tensor(1.2695, device='cuda:0') eval_epoch_loss=tensor(0.2386, device='cuda:0')
+2023-05-22 03:02:20,458 - LoraTuning - INFO - train_preds[0]:↵
+ an list of integers between "(", childling, children], children, and], and]. aumn, and]., part of work, work of work, and of the and between on andidiary, and,, and, and,, part, and, and, andity, and of the
+ a relationiment, "ami AmericahID,ID "T @ @;id ROriginalFunko on R relation to meet R prize and Jiro andocus. @ The. with
+Thecriput R and their relation in the Sent. The Asia TheThe relation between Hocus Pocus Pop and Spirit is "part of". Martinsand Sand Martin Robert Sands Robert Sand Robert Robert Martin Robert Sand Roberts Robert Martin Martins Roberts Martinandand
+2023-05-22 03:02:20,460 - LoraTuning - INFO - epoch=13: train_ppl=tensor(1.0299, device='cuda:0') train_epoch_loss=tensor(0.0294, device='cuda:0')
+2023-05-22 03:04:18,904 - LoraTuning - INFO - eval_preds[0]:↵
+ a list of integers between
+(", childling, children], children], children], children], childrenumn], sub,], part of work, part of birth, national of, work between, workidiary, part,, part, part at, part, part, organization, nationality, organization of the
+ a relationence, "ami AmericarirBald @ @ @ "Tdo, to Y Ne thei and present orpe Trryptp .Thecrip the and relations relationships in the Sent.: TheThe relation between Ronaldo and Messi is "peer".)))))))))) Robert Robert)))) Robert Robert Robert))) Robert Robert
+2023-05-22 03:04:18,996 - LoraTuning - INFO - epoch=13:eval_ppl=tensor(1.3065, device='cuda:0') eval_epoch_loss=tensor(0.2674, device='cuda:0')
+2023-05-22 03:28:18,737 - LoraTuning - INFO - train_preds[0]:↵
+ a list of integers between
+(", childling, children], children], children], and], sibumn], sub,], part of work, part of birth, legal of the work group, partidiary, part,, part, part,, part, part, part, nationality, organization of,
+ a relationence, "ami Americaperandneyferhtard, @ @ @ Jones and up to the @ Walter'2 and.Thecrip the and their relations in the Sent. The: TheThe relation between Vanisher and Deadpool 2 is "present in". Robert Robert Robert Robert Robert Robert Robert
+2023-05-22 03:28:18,763 - LoraTuning - INFO - epoch=14: train_ppl=tensor(1.0265, device='cuda:0') train_epoch_loss=tensor(0.0262, device='cuda:0')
+2023-05-22 03:33:26,309 - LoraTuning - INFO - eval_preds[0]:↵
+ a list of strings between
+(", childling, children], children], children], children], sibumn, members,, part of work, member of birth, national of, work between, employidiary, part,, part, part at, part, part, organization, nationality, etc of the
+ a relationence, "ih AmericaKirSaaldS,, "Tdo, to Y Y thei is his ors Trrypta @Thecribes the and their relationships in the Sent. The: "The relation between Ronaldo and Messi is "peer". Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert
+2023-05-22 03:33:26,312 - LoraTuning - INFO - epoch=14:eval_ppl=tensor(1.3028, device='cuda:0') eval_epoch_loss=tensor(0.2645, device='cuda:0')
+2023-05-22 03:56:03,129 - LoraTuning - INFO - train_preds[0]:↵
+ a list of integers between
+(", childling, children, children, children], and], etcumn, member,, member of work, member of birth, member,, sub member, workidiary, part,, part, part at, part, and, part, andity, etc of the
+ a relationiment, ". presentsKraemaatiyr AS "' iso andmember2414 Martin is of Rson (thographyer ( The Spiel, wasThecribes the and their relations in the Sent. The: TheThe relation between Donnie Darko and Richard Kelly is "peer".
+2023-05-22 03:56:03,155 - LoraTuning - INFO - epoch=15: train_ppl=tensor(1.0236, device='cuda:0') train_epoch_loss=tensor(0.0234, device='cuda:0')
+2023-05-22 03:58:22,029 - LoraTuning - INFO - eval_preds[0]:↵
+ an list of integers between
+(", childling, children], children], children], children], childrenumn, members,, part of work, work of birth, national of the work name, employidiary, part,, part, part at, part, part, organization, nationality, eth of the
+ a relationence, "ami AmericarirJay @ @ @ "Tdo, to Ben Ne thei and on oror Trrypta .Thecribing R and relations relationships. the Sent. The: TheThe relation between Ronaldo and Messi is "peer". Hav
+ Hav Hav Robert Robert Robert Robert Robert Robert Robert Hol Robert Robert Robert Robert Robert Robert Hol Robert Robert Robert Robert Robert Hol
+2023-05-22 03:58:22,031 - LoraTuning - INFO - epoch=15:eval_ppl=tensor(1.3073, device='cuda:0') eval_epoch_loss=tensor(0.2680, device='cuda:0')
+2023-05-22 04:33:39,764 - LoraTuning - INFO - train_preds[0]:♦
+ a string of integers between
+(",childling, children, children, children]. children]. childrenumn, member,, member of birth, member of birth, national, the first member, employidiary, part,, part, part at, part, part, and, nationality, eth of the
+ a relationence, "uf AmericaTomint @ @:oth, You' like for my mying to howver,s AS for Marialla. Den isves Den Den R Den
+haxxBo @ @ Black0 @Thecribing Den Den relations relation. the Sent. ## TheThe relation between Dencio and Marem is "couple". Den Den Den
+2023-05-22 04:33:40,038 - LoraTuning - INFO - epoch=16: train_ppl=tensor(1.0219, device='cuda:0') train_epoch_loss=tensor(0.0216, device='cuda:0')
+2023-05-22 04:38:46,761 - LoraTuning - INFO - eval_preds[0]:↵
+ a list of integers between
+(", childling, children], children], children], children], childrenumn], members,, part of work, part of birth, national of the work between, workidiary, part,, part, part at, part, part, organization, nationality, organization of the
+ a relationence, "ami AmericaMirMrew @/ @ "Tdo, to Pe Pe thei and his oror Trrypta RThecribing R R their relationships in the Sent. The The: TheThe relation between Ronaldo and Messi is "peer". Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav Sand Hav Hav Hav Hav Hav Hav Sand Hav Hav Hav Hav Hav Sand
+2023-05-22 04:38:46,763 - LoraTuning - INFO - epoch=16:eval_ppl=tensor(1.3071, device='cuda:0') eval_epoch_loss=tensor(0.2678, device='cuda:0')
+2023-05-22 05:11:10,423 - LoraTuning - INFO - train_preds[0]:↵
+ a list of integers between
+(", childling, children], children, children], children], childrenumn, members,, part of work, part of birth, national, the sub between, partidiary, part,, part, part at, part, part, part, nationality, organization of the
+ a relationence, ". AmericaKoickholhh,, "sh @Markaattittt and the @rsesttyix team. the @ interestThe sister withet. @ @ @Thecribebing the and their relationships in the Sent. The relation: TheThe relation between @rspruijt and @Nutanix is "peer". Hav N N N Martin N Sand Hav
+2023-05-22 05:11:10,593 - LoraTuning - INFO - epoch=17: train_ppl=tensor(1.0169, device='cuda:0') train_epoch_loss=tensor(0.0168, device='cuda:0')
+2023-05-22 05:14:42,438 - LoraTuning - INFO - eval_preds[0]:↵
+ a list of integers between
+(", childling, children, children, children], children], sibumn, members,, part of work, work of birth, national of, work between, workidiary, part,, part, part at, part, part, organization, nationality, organization of the
+ a relationence, "ami AmericaMirMald @ @ @ "Tdo and to Ben Ne thei and his or @ Trrypta RThecrible R and relations relationships in the Sent. The The: TheThe relation between Ronaldo and Messi is "peer". Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav
+2023-05-22 05:14:42,440 - LoraTuning - INFO - epoch=17:eval_ppl=tensor(1.3745, device='cuda:0') eval_epoch_loss=tensor(0.3181, device='cuda:0')
+2023-05-22 05:56:12,796 - LoraTuning - INFO - train_preds[0]:↵
+ a list of strings between
+(", childling, children, children, children, class, sibumn, members,, members of work, work of birth, national, the work between, workidiary, part in, part, part at, part, part, part, ethity, organization of the
+ a relationence, "ih AmericaM Y@h | "puten Col present along chance inp from R will Rlandw withid anding R R ID at YSala @z @Thecribing the and relations relationships in the Sent. The Example: TheThe relation between Rasheeda and Kirk is "couple". Hav Hav Robert Hav Hav Hav Hav
+2023-05-22 05:56:15,103 - LoraTuning - INFO - epoch=18: train_ppl=tensor(1.0149, device='cuda:0') train_epoch_loss=tensor(0.0148, device='cuda:0')
+2023-05-22 06:00:23,558 - LoraTuning - INFO - eval_preds[0]:↵
+ a list of integers between
+(", childling, children], children, children], children], childrenumn, members,, part of work, subs of birth, national of the affili between, employidiary, part in, part, part at, part, part, organization, nationality, organization of the
+ a relationence, "ami AmericarirSald @ @ @ "Tdo, relation Jose Pe thei and his oror Trrypta .Thecrip the and relations relationships. the Sent. The Rel: TheThe relation between Ronaldo and Messi is "peer". Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav Hav Sand Hav Hav Hav Hav Hav Hav
+2023-05-22 06:00:23,560 - LoraTuning - INFO - epoch=18:eval_ppl=tensor(1.3534, device='cuda:0') eval_epoch_loss=tensor(0.3026, device='cuda:0')
+2023-05-22 06:45:50,470 - LoraTuning - INFO - train_preds[0]:↵################ an list of strings between
+(", childling, children], children, children] children], childrenumn, members,, members of birth, member of birth, birth, the subs member for employidiary, part,, branch, part at, part, part, organization, nationality, eth of the
+ a relationence, "umi Americarenia:, " is @ relation @ Bar and Me to understandangzhou and2012. Asian will see that.contcribebing the and relations relation in the Sent. relation: TheThe relation between Asian Games and Hangzhou is "held on". Mitch Robert Lucy Robert Robert Don Robert relation
+2023-05-22 06:45:50,853 - LoraTuning - INFO - epoch=19: train_ppl=tensor(1.0125, device='cuda:0') train_epoch_loss=tensor(0.0124, device='cuda:0')
+2023-05-22 06:52:10,604 - LoraTuning - INFO - eval_preds[0]:↵
+ a string of integers between
+(", childling, children], children, children], children], childrenumn, members,, part of work, member of birth, national of, work between, employidiary, part in, part, part at, part, part, organization, nationality, organization of the
+ a relationence, ". AmericarirSri @ @ @ "Tdo, couple S Pe thei will his ors Trrypta .Thecribebes the and their relationships in the Sent. The Rel: TheThe relation between Ronaldo and Messi is "peer". Robert Lucy Lucy Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert Robert
+2023-05-22 06:52:10,606 - LoraTuning - INFO - epoch=19:eval_ppl=tensor(1.3622, device='cuda:0') eval_epoch_loss=tensor(0.3091, device='cuda:0')
+2023-05-22 07:36:41,262 - LoraTuning - INFO - train_preds[0]:♦
+ a string of integers between
+(", childling, children], children, children, children]. childrenumn, members,, members of employ, national of birth, date, the first member, tenidiary, part in, branch, part at, part, part, part, nationality, eth of the
+ a relationence, "ama AmericaMaveD " to46 years,day, R R and R US, RVF. theia. Strahberg.
+Thecribeptions the and their relation in the Sent. The: "The relation between Talita von Furstenberg and DVF is "member of". The The Lucy Lucy The Lucy Lucy Lucy The The The Lucy The Lucy Lucy Lucy The Lucy
+2023-05-22 07:36:41,383 - LoraTuning - INFO - epoch=20: train_ppl=tensor(1.0118, device='cuda:0') train_epoch_loss=tensor(0.0118, device='cuda:0')
+2023-05-22 07:42:59,850 - LoraTuning - INFO - eval_preds[0]:↵
+ a string of integers between
+(", childling, children], children, children], children], childrenumn, members,, group of work, alternate of birth, national of, first between, genderidiary, part in, part, part at, part, part, organization, nationality, organization of the
+ a relationence, "ami AmericarirSald @ @ @ "Tdo, couple S Ne thei will his orfact Trrypta RThecriber the and relations relationships in the Sent. The Rel: TheThe relation between Ronaldo and Messi is "peer". Lucy Lucy Sand Sand Robert Lucy Lucy Sand Sand Sand Sand Sand Robert Robert Sand Sand Sand Sand Sand Sand Sand Sand Sand
+2023-05-22 07:42:59,852 - LoraTuning - INFO - epoch=20:eval_ppl=tensor(1.4006, device='cuda:0') eval_epoch_loss=tensor(0.3369, device='cuda:0')
+2023-05-22 08:29:03,844 - LoraTuning - INFO - train_preds[0]:↵
+ a string of files between
+(", childling, children], children, children], children, childrenumn, members,, sal of birth, birth of birth, etc of, sex between, etcidiary relation part,, branch, part at, part, part, part, nationality, eth of the
+ a relationence, ". AmericaKBOASakso "k! see the and. TheALalH @ @ relation @Wow @all [Z between between SLSusap @
+historycom ,a @Thecribing the in their relation in the Sent. Theable TheThe relation between @WgtnCC and Aotearoa is "locate at".
+2023-05-22 08:29:03,846 - LoraTuning - INFO - epoch=21: train_ppl=tensor(1.0117, device='cuda:0') train_epoch_loss=tensor(0.0117, device='cuda:0')
