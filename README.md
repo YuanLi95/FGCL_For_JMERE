@@ -1,12 +1,11 @@
-# FGCL
+# FGCL: A Fine-Grained Network for Joint Multimodal Entity-Relation Extraction
 
-# FGCL: Fine-grained Contrastive Learning Network
+**Some of the related code and the JMERE dataset can be found at our companion repository:**
+👉 [EEGA-for-JMERE GitHub](https://github.com/YuanLi95/EEGA-for-JMERE)
 
-**Code will be released soon.**
+## 📦 Pretraining Data
 
-## Pretrained Data
+You can download the pretrained data using the link below:
 
-The pretraining data is available for download:
-
-- **Download link:** [Baidu Netdisk](https://pan.baidu.com/s/1Ekl-9TyM4zer2D18k-juug?pwd=m9wb)
-- **Extraction code:** m9wb
+* **Permanent Download:** [Baidu Netdisk](https://pan.baidu.com/s/1gO8P-e72lW-9_31BLTia8A?pwd=7rjj)
+* **Extraction Code:** `7rjj`
